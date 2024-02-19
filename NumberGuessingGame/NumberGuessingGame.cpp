@@ -79,7 +79,7 @@ int main()
         if (guesses == -1)
             return 0;
     }
-    cout << "Game over! You lost!" << endl;
+    cout << "Game over! You lost!:(" << endl;
     return 0;
 
 }
